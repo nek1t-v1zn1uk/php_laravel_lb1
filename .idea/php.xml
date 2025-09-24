@@ -130,6 +130,7 @@
       <path value="$PROJECT_DIR$/application/vendor/monolog/monolog" />
       <path value="$PROJECT_DIR$/application/vendor/myclabs/deep-copy" />
       <path value="$PROJECT_DIR$/application/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/application/vendor/phiki/phiki" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.2" />
